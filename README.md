@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+h1>Hi, I'm Asah! <br/><a href="https://github.com/AsakundwiM">Developer </a>, <a href="https://www.linkedin.com/in/asakundwi-mulaudzi-970645163/"> Data Scientis</a>, <a href="https://dribbble.com/AsakundwiM">Designer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
 <!--
 **AsakundwiM/AsakundwiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
