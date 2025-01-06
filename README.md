@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1> Hi, I'm Asah! <br/><a href="https://github.com/AsakundwiM">Developer </a>, <a href="https://www.linkedin.com/in/asakundwi-mulaudzi-970645163/"> Data Scientist</a>, <a href="https://dribbble.com/AsakundwiM">Designer</a>
+<h1> Hi, I am Asakundwi Mulaudzi! <br/><a href="https://github.com/AsakundwiM">Developer </a>, <a href="https://www.linkedin.com/in/asakundwi-mulaudzi-970645163/"> Data Engineer</a> and <a href="https://dribbble.com/AsakundwiM">Graphic Designer</a>
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
